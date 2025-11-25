@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "22f879f3-48b7-456c-a4b7-854cd2e8f08e")
+	(paper "A4")
+	(title_block
+		(title "Z80 PC - CPU")
+		(date "2025-11-16")
+		(rev "0.0.1")
+		(company "BitArt")
+	)
+	(lib_symbols)
+)
